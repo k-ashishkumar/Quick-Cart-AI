@@ -38,7 +38,7 @@ The concept is designed around:
 An interactive prototype of QuickCart AI is available below for concept demonstration and experience walkthrough.
 
 ### Try the Prototype
-https://lovable.dev/projects/2527a671-ce63-4e32-9147-1ec7654f3d02
+[https://lovable.dev/projects/2527a671-ce63-4e32-9147-1ec7654f3d02](https://talk-n-shop-fast.lovable.app)
 
 The prototype demonstrates:
 - Voice-first grocery ordering
