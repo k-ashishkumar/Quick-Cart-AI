@@ -44,7 +44,7 @@ These screens demonstrate:
 - Product architecture visualization
 - 
 - <img width="1326" height="781" alt="image" src="https://github.com/user-attachments/assets/ca415d0d-c2fc-4b01-b3db-aae47dacae8f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a733c8d0-eab4-40f8-b7b9-a1de6a148b13" />
+  <img width="1882" height="771" alt="image" src="https://github.com/user-attachments/assets/7b75dd1f-7b49-4541-82a0-48802cd34da2" />
 <img width="1342" height="781" alt="image" src="https://github.com/user-attachments/assets/5f4f1acc-f2dc-479c-b58f-3fa305c8b2bb" />
 <img width="1886" height="765" alt="image" src="https://github.com/user-attachments/assets/30f68b29-1206-49b3-93bf-79efbb9f5581" />
 <img width="1889" height="782" alt="image" src="https://github.com/user-attachments/assets/cd0fd555-9b02-4846-8d69-7f88861b5fc9" />
