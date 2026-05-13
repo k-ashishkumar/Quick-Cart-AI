@@ -39,6 +39,7 @@ An interactive prototype of QuickCart AI is available below for concept demonstr
 
 ### Try the Prototype
 [https://lovable.dev/projects/2527a671-ce63-4e32-9147-1ec7654f3d02](https://talk-n-shop-fast.lovable.app)
+Prototype Platform: Built using Lovable AI...
 
 The prototype demonstrates:
 - Voice-first grocery ordering
@@ -46,6 +47,8 @@ The prototype demonstrates:
 - Smart SERP experience
 - AI-assisted cart workflow
 - Multi-item ordering concept
+
+- Feedback and product discussions are welcome.
 
 Note: This prototype represents a conceptual interaction model and UI flow demonstration.
   
