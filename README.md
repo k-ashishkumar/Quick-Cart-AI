@@ -32,9 +32,8 @@ The concept is designed around:
 - AI-assisted shopping
 - Smart personalization
 - Faster cart creation workflows
-- 
-- ## Screenshots
-- 
+  
+ ## Screenshots
 Below are selected prototype previews and UI flow representations from the QuickCart AI concept prototype.
 
 These screens demonstrate:
@@ -42,12 +41,22 @@ These screens demonstrate:
 - Smart SERP experience
 - Conversational AI interaction model
 - Product architecture visualization
-- 
+  
+  ### Voice Assistant Interface
+
+Users initiate grocery ordering through a conversational voice-first interface optimized for natural speech input.
 - <img width="1326" height="781" alt="image" src="https://github.com/user-attachments/assets/ca415d0d-c2fc-4b01-b3db-aae47dacae8f" />
+
+### Conversational Order Capture
   <img width="1882" height="771" alt="image" src="https://github.com/user-attachments/assets/7b75dd1f-7b49-4541-82a0-48802cd34da2" />
+  
+### Smart SERP Experience  
 <img width="1342" height="781" alt="image" src="https://github.com/user-attachments/assets/5f4f1acc-f2dc-479c-b58f-3fa305c8b2bb" />
+
 <img width="1886" height="765" alt="image" src="https://github.com/user-attachments/assets/30f68b29-1206-49b3-93bf-79efbb9f5581" />
 <img width="1889" height="782" alt="image" src="https://github.com/user-attachments/assets/cd0fd555-9b02-4846-8d69-7f88861b5fc9" />
+
+### Smart Cart & Checkout Flow
 <img width="1890" height="781" alt="image" src="https://github.com/user-attachments/assets/5fb32dde-4bd1-40a8-a642-0e25ce36debd" />
 
 
@@ -65,13 +74,15 @@ The QuickCart AI architecture includes:
 
 ## Product Flow
 
-1. User taps microphone
+1. User opens grocery application
 2. Voice assistant activates
-3. User speaks full grocery list
-4. NLP extracts structured items
-5. Parallel product search executes
-6. Smart SERP renders results
-7. User adds items and checks out
+3. User speaks complete shopping list
+4. NLP engine extracts structured entities
+5. Product search executes in parallel
+6. Smart SERP renders grouped product results
+7. User reviews recommendations
+8. Cart is optimized with AI nudges
+9. User proceeds to checkout
 
 ---
 
