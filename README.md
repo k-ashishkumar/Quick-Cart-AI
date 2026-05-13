@@ -32,6 +32,23 @@ The concept is designed around:
 - AI-assisted shopping
 - Smart personalization
 - Faster cart creation workflows
+
+  ## Live Prototype
+
+An interactive prototype of QuickCart AI is available below for concept demonstration and experience walkthrough.
+
+### Try the Prototype
+https://lovable.dev/projects/2527a671-ce63-4e32-9147-1ec7654f3d02
+
+The prototype demonstrates:
+- Voice-first grocery ordering
+- Conversational interaction flow
+- Smart SERP experience
+- AI-assisted cart workflow
+- Multi-item ordering concept
+
+Note: This prototype represents a conceptual interaction model and UI flow demonstration.
+  
   
  ## Screenshots
 Below are selected prototype previews and UI flow representations from the QuickCart AI concept prototype.
